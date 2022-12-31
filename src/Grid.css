@@ -1,0 +1,38 @@
+.Grid{
+ background-color: aliceblue;
+ width: 42px;
+ height: 37px;
+}
+
+.Grid1{
+ background-color: blue;
+  width: 32px;
+  height: 40px;
+  /* text-align: center; */
+  /* margin-top: 10%; */
+}
+
+.textCenter{
+ margin-top: 20%;
+ /* margin-left: 0%; */
+}
+
+.buttonSize1{
+ width: 32px;
+ height: 40px;
+ border: 0px;
+}
+
+.buttonSize2 {
+  background-color: yellow;
+  width: 32px;
+  height: 40px;
+  border: 0px;
+}
+
+.Grid2{
+ background-color: red;
+ width: 32px;
+ height: 40px;
+ text-align: center;
+}
