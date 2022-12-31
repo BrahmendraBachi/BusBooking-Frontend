@@ -103,7 +103,7 @@ const Home = () => {
         <div>
           <div className='container p-5' >
 
-            <div className='text-center'><h3 className='text-danger'>Bus - 1432</h3>
+            <div className='text-center'><h3 className='text-danger'>Bus 1432</h3>
               <b>
                 Bangalore --{'>'} Chikkaballapur --{'>'} Bagepally --{'>'} Penugonda --{'>'} Anantapur --{'>'} Gutty --{'>'} Dhone --{'>'} Jedcharla --{'>'} Hyderabad
               </b>
